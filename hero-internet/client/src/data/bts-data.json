@@ -1,0 +1,471 @@
+[
+  {
+    "id": "35PBL_0046",
+    "name": "TBG_KANDANG_JATI_KULON",
+    "longitude": 113.42685,
+    "latitude": -7.76157,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0052",
+    "name": "DMT_SUMBERTAMAN",
+    "longitude": 113.229,
+    "latitude": -7.78241,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35LMJ_0019",
+    "name": "DMT_KARANGANYARYOSOWILANGUN",
+    "longitude": 113.261,
+    "latitude": -8.22531,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35BJN_0073",
+    "name": "PTI_KAPAS_WEDI",
+    "longitude": 111.89169,
+    "latitude": -7.19251,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMJ_0016",
+    "name": "PTI_LUMAJANG",
+    "longitude": 113.21586,
+    "latitude": -8.13417,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35TBN_0004",
+    "name": "TBG_KEBUNSARI_TUBAN_JAWA_TIMUR",
+    "longitude": 112.054666,
+    "latitude": -6.902111,
+    "region": "Tuban"
+  },
+  {
+    "id": "35LMJ_0013",
+    "name": "PTI_PANDANWANGI_TEMPEH",
+    "longitude": 113.21779,
+    "latitude": -8.22818,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35TBN_0005",
+    "name": "TBG_TUBAN_TOWN",
+    "longitude": 112.062994,
+    "latitude": -6.90007,
+    "region": "Tuban"
+  },
+  {
+    "id": "35TBN_0006",
+    "name": "TBG_TUBAN",
+    "longitude": 112.0757389,
+    "latitude": -6.89921,
+    "region": "Tuban"
+  },
+  {
+    "id": "35BJN_0069",
+    "name": "PTI_PURWOKERTO_GREEN_21",
+    "longitude": 111.87688,
+    "latitude": -7.14708,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMJ_0017",
+    "name": "PTI_BADES",
+    "longitude": 113.11008,
+    "latitude": -8.23204,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35BJN_0072",
+    "name": "DMT_KADIPATEN",
+    "longitude": 111.8915,
+    "latitude": -7.15169444444444,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMJ_0018",
+    "name": "PTI_SUMBERSUKO_LUMAJANG",
+    "longitude": 113.20082,
+    "latitude": -8.1475,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35BJN_0074",
+    "name": "DMT_KAPAS_BOJONEGORO",
+    "longitude": 111.91492,
+    "latitude": -7.18738,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMJ_0009",
+    "name": "TBG_LUMAJANG",
+    "longitude": 113.2288008,
+    "latitude": -8.140736111,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35BJN_0070",
+    "name": "TBG_SPLIT_BANJARSARI_BOJONEGORO_3",
+    "longitude": 111.87107,
+    "latitude": -7.14188,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0015",
+    "name": "PTI_PURWOSARI",
+    "longitude": 111.66151,
+    "latitude": -7.17214,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35PBL_0055",
+    "name": "TBG_KRAKSAAN_PANTAI",
+    "longitude": 113.4201,
+    "latitude": -7.73854,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0044",
+    "name": "PTI_MUNENG_KIDUL_SUMBERASIH",
+    "longitude": 113.1732,
+    "latitude": -7.79735,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0053",
+    "name": "DMT_RSHIDAYATULLAH",
+    "longitude": 113.205,
+    "latitude": -7.75846,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35BJN_0054",
+    "name": "TBG_BOJONEGORO",
+    "longitude": 111.90128,
+    "latitude": -7.14681,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35PBL_0047",
+    "name": "TBG_KRAKSAAN",
+    "longitude": 113.4072,
+    "latitude": -7.76208,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35LMG_0008",
+    "name": "TBG_SUKOREJO_LAMONGAN",
+    "longitude": 112.41016,
+    "latitude": -7.11936,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35LMG_0010",
+    "name": "TBG_MADE_6",
+    "longitude": 112.38922,
+    "latitude": -7.11529,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35LMG_0012",
+    "name": "TBG_LAMONGAN",
+    "longitude": 112.40334,
+    "latitude": -7.11446,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35BJN_0011",
+    "name": "CMI_NGULANAN_DANDER",
+    "longitude": 111.85706,
+    "latitude": -7.15787,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMG_0013",
+    "name": "TBG_LAMONGAN_KARANGLANGIT",
+    "longitude": 112.369416,
+    "latitude": -7.102,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35BJN_0013",
+    "name": "CMI_BALEN",
+    "longitude": 111.96774,
+    "latitude": -7.19146,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0012",
+    "name": "CMI_BALENREJO_BOJONEGORO",
+    "longitude": 111.95988,
+    "latitude": -7.19236,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0003",
+    "name": "PTI_SAMBIREJO",
+    "longitude": 111.87932,
+    "latitude": -7.16544,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0025",
+    "name": "PTI_BANJARJO_PADANGAN",
+    "longitude": 111.62924,
+    "latitude": -7.15938,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0024",
+    "name": "PTI_KYAI_HAJI_KH_ABDUL_HADI_PADANGAN",
+    "longitude": 111.6208,
+    "latitude": -7.15847,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0023",
+    "name": "PTI_PUNGPUNGAN",
+    "longitude": 111.80401,
+    "latitude": -7.13733,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMG_0014",
+    "name": "TBG_NAWONG",
+    "longitude": 112.22009,
+    "latitude": -7.10317,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35LMG_0009",
+    "name": "TBG_TURI",
+    "longitude": 112.4071,
+    "latitude": -7.08879,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35BJN_0005",
+    "name": "TBG_SUMBER_TLASEH",
+    "longitude": 111.87157,
+    "latitude": -7.17379,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0027",
+    "name": "TBG_KALITIDU_KOTA",
+    "longitude": 111.77558,
+    "latitude": -7.13066,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMG_0007",
+    "name": "TBG_LAMONGAN_JETIS",
+    "longitude": 112.4201811,
+    "latitude": -7.12076,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35BJN_0009",
+    "name": "TBG_IBS_MBUTOH_BAURENO",
+    "longitude": 112.125147,
+    "latitude": -7.12862,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0007",
+    "name": "TBG_KAPAS_BOJONEGORO",
+    "longitude": 111.92767,
+    "latitude": -7.19817,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35LMG_0011",
+    "name": "TBG_PUCUK",
+    "longitude": 112.2602,
+    "latitude": -7.09793,
+    "region": "Lamongan"
+  },
+  {
+    "id": "35BJN_0026",
+    "name": "TBG_SUMBEREJO_BOJONEGORO",
+    "longitude": 111.99738,
+    "latitude": -7.17663,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0029",
+    "name": "TBG_SMPN_1_PADANGAN",
+    "longitude": 111.60647,
+    "latitude": -7.15012,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "BJN0001",
+    "name": "IBS TRUNOJOYO",
+    "longitude": 111.879175,
+    "latitude": -7.15577,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "LMG0001",
+    "name": "TBG_BABAT_LAMONGAN",
+    "longitude": 112.17333,
+    "latitude": -7.1054,
+    "region": "Lamongan"
+  },
+  {
+    "id": "BJN0002",
+    "name": "IBS BOJONEGORO",
+    "longitude": 111.8867683,
+    "latitude": -7.15906,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0010",
+    "name": "TBG_GUNUNG_SARI",
+    "longitude": 112.13824,
+    "latitude": -7.12741,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0028",
+    "name": "TBG_PADANGAN",
+    "longitude": 111.6153172,
+    "latitude": -7.154880278,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "35BJN_0017",
+    "name": "PTI_KALITIDU",
+    "longitude": 111.76363,
+    "latitude": -7.13,
+    "region": "Bojonegoro"
+  },
+  {
+    "id": "PBL0001",
+    "name": "TONGASWETAN",
+    "longitude": 113.11877,
+    "latitude": -7.73605,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0003",
+    "name": "TBG_MAYANGAN1",
+    "longitude": 113.22136,
+    "latitude": -7.73809,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0004",
+    "name": "TBG_AGUS_SALIM_MAYANGAN",
+    "longitude": 113.21049,
+    "latitude": -7.74036,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0030",
+    "name": "TBG_PERUMDINLECES_TBG",
+    "longitude": 113.22778,
+    "latitude": -7.85545,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PSN_0064",
+    "name": "TBG_KEDAWUNG_KULON",
+    "longitude": 112.97968,
+    "latitude": -7.70658,
+    "region": "Kabupaten Pasuruan"
+  },
+  {
+    "id": "35PSN_0063",
+    "name": "TBG_GRATI_PASURUAN_2",
+    "longitude": 113.0159,
+    "latitude": -7.72106,
+    "region": "Kabupaten Pasuruan"
+  },
+  {
+    "id": "35PBL_0015",
+    "name": "TBG_KERPANGAN",
+    "longitude": 113.22046,
+    "latitude": -7.8232,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0021",
+    "name": "TBG_PROBOLINGGO",
+    "longitude": 113.22704,
+    "latitude": -7.75237,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0025",
+    "name": "TBG_MASTRIPPROB",
+    "longitude": 113.21952,
+    "latitude": -7.77018,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35LMJ_0004",
+    "name": "PTI_JATIROTO",
+    "longitude": 113.3540633,
+    "latitude": -8.115950833,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35PBL_0020",
+    "name": "TBG_KANIGARAN_KEBONSARIWETAN",
+    "longitude": 113.22951,
+    "latitude": -7.77091,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0012",
+    "name": "TBG_KEDOPOK_JREBENG_WETAN",
+    "longitude": 113.208244,
+    "latitude": -7.783814,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0026",
+    "name": "TBG_WIROBONANG",
+    "longitude": 113.23938,
+    "latitude": -7.76148,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0028",
+    "name": "TBG_TAMANSARI_DRINGU",
+    "longitude": 113.25551,
+    "latitude": -7.77377,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35PBL_0029",
+    "name": "TBG_SUMBERBULU_TEGAL_SIWALAN_TBG",
+    "longitude": 113.23829,
+    "latitude": -7.82231,
+    "region": "Probolinggo"
+  },
+  {
+    "id": "35LMJ_0001",
+    "name": "CMI_RANDUAGUNG",
+    "longitude": 113.30598,
+    "latitude": -8.07054,
+    "region": "Lumajang"
+  },
+  {
+    "id": "35PSN_0048",
+    "name": "CMI_GRATI",
+    "longitude": 112.99367,
+    "latitude": -7.70568,
+    "region": "Kabupaten Pasuruan"
+  },
+  {
+    "id": "35PBL_0045",
+    "name": "PTI_WR_SOEPRATMAN_MAYANGAN",
+    "longitude": 113.22078,
+    "latitude": -7.74911,
+    "region": "Probolinggo"
+  }
+]
